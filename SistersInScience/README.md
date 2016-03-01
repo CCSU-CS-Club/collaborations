@@ -7,4 +7,5 @@ This directory contains files, links, and resources for the event March 5th, 201
  
 ### Getting started
 Go to the Scratch homepage https://scratch.mit.edu/ and click "Join Scratch"
+
 This will allow you to save your projects so you can access them again after you leave the workshop
