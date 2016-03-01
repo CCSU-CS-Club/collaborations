@@ -2,4 +2,4 @@
 
 This repository contains files related to colaborations with other organizations
 
-Sisters in Science
+<a href="https://github.com/CCSU-CS-Club/collaborations/tree/master/SistersInScience">Sisters in Science event</a>
