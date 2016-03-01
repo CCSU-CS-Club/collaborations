@@ -1,4 +1,6 @@
 # Sisters in Science Collaboration
+(http://theconnectory.org/program/sisters-science-0)
+
 This directory contains files, links, and resources for the event March 5th, 2016
 
 - Scratch homepage https://scratch.mit.edu/
